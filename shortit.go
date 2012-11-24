@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 	"text/template"
-	"code.google.com/p/google-api-go-client/urlshortener/v1"
+	"code.google.com/p/google-api-go-client/urlshortener/v1" // 导入GOOGLE API包
 )
 
 // 本项目的网页模板
